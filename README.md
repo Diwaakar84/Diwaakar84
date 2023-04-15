@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Diwaakar
+###                                                                   Hi there 👋, I'm Diwaakar
+
+---
+[![](https://visitcount.itsvg.in/api?id=Diwaakar84&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 Pursuing Computer Science and Engineering<br>Competitive Programmer<br>Novice Game Developer<br>Keen to learn new technologies<br>Avid Problem Solver
@@ -17,8 +20,5 @@ Pursuing Computer Science and Engineering<br>Competitive Programmer<br>Novice Ga
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Diwaakar84&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
