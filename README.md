@@ -1,7 +1,11 @@
-###                                                                   Hi there 👋, I'm Diwaakar
-
+<div id="user-content-toc"  align="center">
+  <ul>
+    <summary><h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>,  I'm Diwaakar</h1></summary>
+  </ul>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Diwaakar84&icon=0&color=1)](https://visitcount.itsvg.in)
+---
 
 # 💫 About Me:
 Pursuing Computer Science and Engineering<br>Competitive Programmer<br>Novice Game Developer<br>Keen to learn new technologies<br>Avid Problem Solver
